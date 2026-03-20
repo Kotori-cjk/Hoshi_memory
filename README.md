@@ -1,7 +1,6 @@
 # hoshi-memory
 My dairy about acwing
 ## Part 1: 基础算法
-# 晚风与烟火
 > 2026年3月20日
 
 ![河边晚霞](images/river_sunset.jpg)
