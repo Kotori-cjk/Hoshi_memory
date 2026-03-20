@@ -6,10 +6,12 @@ My dairy about acwing
 ![梅娅](https://github.com/Kotori-cjk/Hoshi_memory/blob/main/HCD1hSBa8AA1i3g.jpg)
 
 *排序与分治*
+- P1177 P1908 P1774
 
-![小店一角](https://img-blog.csdnimg.cn/20260320_182510.jpg)
 *二分*
+- P2249 P1947
 
 ---
 ✨ 今日favorite song:
 あさきゆめみし -Piano- by 忍
+              (倒不如说基本听得都是忍的歌，fp这一块)
