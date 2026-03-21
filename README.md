@@ -15,3 +15,8 @@ My dairy about acwing
 ✨ 今日favorite song:
 あさきゆめみし -Piano- by 忍
               (倒不如说基本听得都是忍的歌，fp这一块)
+
+> 2026年3月21日
+
+*大整数运算*
+- P1601 P2142 P1303 P1480 P1932
