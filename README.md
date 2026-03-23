@@ -38,7 +38,7 @@ My dairy about acwing
 > 2026年3月22日
 
 
-![](HB677uebQAA4yo7.jpg)
+![](HD3t8ETboAQCW0_.jpg)
 
 
 *单调栈*
