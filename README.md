@@ -3,7 +3,7 @@ My dairy about acwing
 ## Part 1: 基础算法
 > 2026年3月20日
 
-![梅娅](https://github.com/Kotori-cjk/Hoshi_memory/blob/main/HCD1hSBa8AA1i3g.jpg)
+![梅娅]("pictures/HCD1hSBa8AA1i3g.jpg")
 
 *排序与分治*
 - P1177 P1908 P1774
@@ -23,7 +23,7 @@ My dairy about acwing
 
 > 2026年3月21日
 
-![还是梅娅](141705674_p0_master1200.jpg)
+![还是梅娅]("pictures/141705674_p0_master1200.jpg")
 
 
 *大整数运算*
@@ -38,7 +38,7 @@ My dairy about acwing
 > 2026年3月22日
 
 
-![](HD3t8ETboAQCW0_.jpg)
+![小春生日快乐~]("pictures/HD3t8ETboAQCW0_.jpg")
 
 
 *单调栈*
