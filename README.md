@@ -3,7 +3,7 @@ My dairy about acwing
 ## Part 1: 基础算法
 > 2026年3月20日
 
-![梅娅]("pictures/HCD1hSBa8AA1i3g.jpg")
+![梅娅](pictures/HCD1hSBa8AA1i3g.jpg)
 
 *排序与分治*
 - P1177 P1908 P1774
