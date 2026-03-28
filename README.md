@@ -23,7 +23,7 @@ My dairy about acwing
 
 > 2026年3月21日
 
-![还是梅娅]("pictures/141705674_p0_master1200.jpg")
+![还是梅娅](pictures/141705674_p0_master1200.jpg)
 
 
 *大整数运算*
@@ -38,7 +38,7 @@ My dairy about acwing
 > 2026年3月22日
 
 
-![小春生日快乐~]("pictures/HD3t8ETboAQCW0_.jpg")
+![小春生日快乐~](pictures/HD3t8ETboAQCW0_.jpg)
 
 
 *单调栈*
