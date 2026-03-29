@@ -46,7 +46,7 @@ My dairy about acwing
 P5788
 
 *单调队列*
-P11886
+P1886
 
 ✨ 今日favorite song:
 青空 (そら) のいろ -world's end love Arrange-
