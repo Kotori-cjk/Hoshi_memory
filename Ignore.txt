@@ -1,0 +1,17 @@
+# Visual Studio 临时文件
+.vs/
+*.suo
+*.opendb
+ipch/
+
+# C++ 编译产物
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.obj
+*.ilk
+
+# 其他无关文件
+*.log

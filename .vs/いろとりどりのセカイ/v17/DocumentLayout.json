@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\newcode\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C07529-EA28-44B2-98E8-768CB6C8E410}|\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4.vcxproj|D:\\newcode\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C07529-EA28-44B2-98E8-768CB6C8E410}|\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4.vcxproj|solutionrelative:\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1588.cpp",
+              "DocumentMoniker": "D:\\newcode\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp",
+              "RelativeDocumentMoniker": "\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp",
+              "ToolTip": "D:\\newcode\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp",
+              "RelativeToolTip": "\u3044\u308D\u3068\u308A\u3069\u308A\u306E\u30BB\u30AB\u30A4\\P1588.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-03T04:45:33.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
